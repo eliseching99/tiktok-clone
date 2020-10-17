@@ -1,3 +1,16 @@
+# Tik Tok Clone: ReactJS
+
+Created: Oct 16, 2020 1:55 AM
+Tags: Fun
+
+![https://www.licenseglobal.com/sites/licenseglobal.com/files/styles/article_featured_retina/public/tiktok.png?itok=VLKEKWc7](https://www.licenseglobal.com/sites/licenseglobal.com/files/styles/article_featured_retina/public/tiktok.png?itok=VLKEKWc7)
+
+**Technologies used: ReactJS, HTML, CSS, Javascript, Firebase, Cloud Firestore**
+
+By developing this web application using React, I learnt how to create the **ticker animation** for the words to scroll across the screen similarly to the Tik Top application. Besides that, I was able to learn how to handle **States** in React whereby "**on click**" will cause an effect to occur . Besides this, I was able to learn a neat trick using **Props** whereby you can just send over the needed parameters into the function so that **no hardcoding** will be needed. Alas, my application would become completely **Responsive**! One more cool feature I learned was how to create the **Snap Animation using CSS** so that when we scroll to the next video it completely snaps all the way to display the whole video! A really cool trick from CSS that I learned and will use in the future! 
+
+[https://react-learning-4fc3f.web.app/](https://react-learning-4fc3f.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
